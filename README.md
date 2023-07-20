@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Clandyke.github.io/rsschool-cv/cv
