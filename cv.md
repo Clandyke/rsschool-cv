@@ -23,3 +23,10 @@ console.log (a);
 ```
 ___
 ## Experience:
+- Begginer
+___
+## Education:
+- Studen of Rsschool
+___
+## English
+- A1 Begginer level
