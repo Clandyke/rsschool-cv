@@ -26,7 +26,7 @@ ___
 - Begginer
 ___
 ## Education:
-- Studen of Rsschool
+- Student of Rsschool
 ___
 ## English
 - A1 Begginer level
