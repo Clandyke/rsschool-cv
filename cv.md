@@ -1,6 +1,5 @@
 ___
 # Egor Hrigoriev
-![My Photo](https://ibb.co/qDjSgvJ)
 ## Contacts:
 - Location: Belarus, Bobruisk
 - Phone: +375 44 566 89 32
